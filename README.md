@@ -1,837 +1,753 @@
-# Prefácio
+# Prefacio
 
-Olá, jovem pensador.
+Hola, joven pensador.
 
-A jornada que você viverá conosco não começa nem termina nesta comunidade, páginas, vídeos, certificados e tarefas. 
+El viaje que vivirás con nosotros no comienza ni termina en esta comunidad, páginas, videos, certificados y tareas. 
 
-Metaforicamente, gostamos de dizer que estamos travando uma batalha com a tecnologia blockchain, mas a realidade é que estamos travando uma guerra contra a falta de consciência a respeito das áreas relacionadas à tecnologia.
+Metafóricamente, nos gusta decir que estamos librando una batalla con la tecnología blockchain, pero la realidad es que estamos librando una guerra contra la falta de conciencia respecto a las áreas relacionadas con la tecnología.
 
-O que nos interessa é como essas tecnologias estão mudando nossa percepção sobre o mundo e sobre nós mesmos. Como a tecnologia blockchain está modificando nossas relações e como ela pode gerar valor.
+Lo que nos interesa es cómo estas tecnologías están cambiando nuestra percepción del mundo y de nosotros mismos. Cómo la tecnología blockchain está modificando nuestras relaciones y cómo puede generar valor.
 
-A capacidade de gerar e armazenar valor está diretamente relacionada à necessidade que o ser humano tem de construir um ambiente que o mantenha seguro (ou que ao menos passe essa sensação).
+La capacidad de generar y almacenar valor está directamente relacionada con la necesidad humana de construir un entorno que lo mantenga seguro (o que al menos transmita esa sensación).
 
-O governo, a medicina, a polícia, a propriedade privada, os bancos, seguradoras e muitos outros serviços, que estão diretamente ligados a essa necessidade, serão diretamente impactados por essa tecnologia.
+El gobierno, la medicina, la policía, la propiedad privada, los bancos, aseguradoras y muchos otros servicios, que están directamente ligados a esta necesidad, serán impactados de manera directa por esta tecnología.
 
-Com o crescimento da sociedade, houve a criação de pactos sociais, como as relações de trabalho, o dinheiro, o governo e a ideia de propriedade privada.
+Con el crecimiento de la sociedad, se crearon pactos sociales, como las relaciones laborales, el dinero, el gobierno y la idea de propiedad privada.
 
-> “Tecnologia pode ser definida como a aplicação do conhecimento para atingir objetivos práticos de maneira específica e replicável.”
+> “La tecnología puede definirse como la aplicación del conocimiento para alcanzar objetivos prácticos de manera específica y replicable.”
 
-O poder da tecnologia é imenso, e a crescente adoção/difusão de uma tecnologia gera um crescimento exponencial. A partir daquele momento, as pessoas passam a construir sobre aquele conhecimento, como uma plataforma. 
+El poder de la tecnología es inmenso, y la creciente adopción/difusión de una tecnología genera un crecimiento exponencial. A partir de ese momento, las personas comienzan a construir sobre ese conocimiento, como una plataforma. 
 
-Por isso, tudo que for falado aqui deve ser considerado não como um ponto de chegada, mas sim como um ponto de partida para podermos fazer as perguntas certas e, portanto, construir, com bases e fundamentos sólidos, o futuro usando a incrível tecnologia que é a blockchain.
+Por ello, todo lo que se mencione aquí debe considerarse no como un punto de llegada, sino como un punto de partida para que podamos hacer las preguntas correctas y, por lo tanto, construir, con bases y fundamentos sólidos, el futuro utilizando la increíble tecnología que es blockchain.
 
+# CLASE 1 - Cayendo en la madriguera del conejo
 
-# AULA 1 - Caindo na toca do coelho
+Internet fue y es una tecnología revolucionaria. Fue la plataforma para miles de revoluciones, así como el desarrollo de infinitas nuevas posibilidades. Internet es vista como un derecho humano y ofrece acceso y oportunidades nunca antes vistas.
 
-A internet foi e é uma tecnologia revolucionária. Ela foi a plataforma para milhares de revoluções, bem como o desenvolvimento de infinitas novas possibilidades. A internet é vista como um direito humano e oferece acesso e oportunidades nunca antes vistas.
+Todo sucede a través de internet hoy en día, incluso cosas que antes estaban bastante restringidas a la actividad presencial, como hacer compras. Sería natural imaginar que, en algún momento, habría dinero digital, pero, por algún motivo, fue necesaria una gran crisis y un gran aumento de la desconfianza en las instituciones para que esto sucediera.
 
-Tudo ocorre através da internet hoje em dia, inclusive coisas que antes eram bastante restritas à atividade presencial, como fazer compras. Seria natural imaginar que, em algum momento, haveria um dinheiro digital, mas, por algum motivo, foi necessária uma grande crise e um grande aumento da desconfiança nas instituições para isso acontecer.
-
-A realidade é que, desde a década de 80, já existiam pessoas pensando em criar uma espécie de dinheiro digital. Porém, nem a melhor ideia do mundo pode convencer uma pessoa que não percebe sua utilidade. Foi só após o crash de 2007/2008 que a humanidade conseguiu o marco de “conquistar” sua primeira moeda digital descentralizada: o Bitcoin.
+La realidad es que, desde la década de los 80, ya había personas pensando en crear una especie de dinero digital. Sin embargo, ni la mejor idea del mundo puede convencer a una persona que no percibe su utilidad. Fue solo tras el colapso de 2007/2008 que la humanidad logró el hito de “conquistar” su primera moneda digital descentralizada: el Bitcoin.
 
 ### 2008
 
-Em meados de setembro de 2008, com a falência de um banco americano tradicional (Lehman Brothers), seis semanas depois, no dia 31 de outubro, um usuário com o nick de Satoshi Nakamoto enviou um e-mail para uma lista seleta de destinatários de um grupo cypherpunk contendo o whitepaper do Bitcoin.
+A mediados de septiembre de 2008, con la quiebra de un banco americano tradicional (Lehman Brothers), seis semanas después, el 31 de octubre, un usuario con el nick de Satoshi Nakamoto envió un correo electrónico a una lista selecta de destinatarios de un grupo cypherpunk que contenía el whitepaper de Bitcoin.
 
-Alguma discussão se sucedeu e, no ano seguinte, em 2009, algumas pessoas começaram a participar da rede do Bitcoin, que é uma moeda digital como nenhuma outra.
+Se produjo alguna discusión y, al año siguiente, en 2009, algunas personas comenzaron a participar en la red de Bitcoin, que es una moneda digital como ninguna otra.
 
-O lema do Bitcoin é “Seja seu próprio banco”, em parte por conta da crise, mas também por um pensamento preexistente da ideia de se libertar das instituições de controle, incluindo governos e bancos centrais. A esmagadora maioria das pessoas se relaciona com as criptomoedas buscando ganhar dinheiro; em segundo lugar, temos os apaixonados por tecnologia, mas o grupo que mais cresce é o daqueles que fazem negócios dentro dos parâmetros da blockchain, a tecnologia do Bitcoin. Porém, o que começou tudo foi a busca por um ideal de liberdade.
+El lema de Bitcoin es “Sé tu propio banco”, en parte debido a la crisis, pero también por un pensamiento preexistente de la idea de liberarse de las instituciones de control, incluidos gobiernos y bancos centrales. La abrumadora mayoría de las personas se relaciona con las criptomonedas buscando ganar dinero; en segundo lugar, están los apasionados por la tecnología, pero el grupo que más crece es el de aquellos que hacen negocios dentro de los parámetros de la blockchain, la tecnología de Bitcoin. Sin embargo, lo que inició todo fue la búsqueda de un ideal de libertad.
 
-O Bitcoin é um dinheiro controlado pelo código, livre de erros humanos. O poder atrelado à emissão e gestão de dinheiro é delegado aos usuários que permitem que a rede funcione em seus computadores. Não precisa de nenhuma entidade adicional, é 24 horas por dia, transparente, rastreável, não possui CEO nem sede corporativa, porém também não tem atendimento ao cliente, e, por um erro bobo, você pode perder todo o seu dinheiro. Achou que ser seu próprio banco seria fácil?
+Bitcoin es un dinero controlado por el código, libre de errores humanos. El poder asociado a la emisión y gestión del dinero es delegado a los usuarios que permiten que la red funcione en sus computadoras. No necesita ninguna entidad adicional, opera 24 horas al día, es transparente, rastreable, no tiene CEO ni sede corporativa, pero tampoco tiene atención al cliente, y, por un error tonto, puedes perder todo tu dinero. ¿Pensaste que ser tu propio banco sería fácil?
 
-A maioria das pessoas não quer ter seu próprio banco e arcar com todas as consequências (boas e ruins) que advêm disso. A maioria quer apenas o lado bom, ou seja, ver seu patrimônio multiplicar 10, 20, 30 vezes no mercado, mas acabam suscetíveis a golpes e a “precisar” confiar em outras instituições: os novos bancos, as exchanges (corretoras). Isso nos faz questionar, “no fim do dia”, se as pessoas realmente querem ser seus próprios bancos.
+La mayoría de las personas no quiere ser su propio banco y asumir todas las consecuencias (buenas y malas) que conlleva. La mayoría solo quiere el lado bueno, es decir, ver su patrimonio multiplicarse 10, 20, 30 veces en el mercado, pero terminan siendo susceptibles a fraudes y “necesitando” confiar en otras instituciones: los nuevos bancos, las exchanges (corredoras). Esto nos hace cuestionar, “al final del día”, si las personas realmente quieren ser sus propios bancos.
 
-### Os impérios digitais da informação
+### Los imperios digitales de la información
 
-Se ninguém paga para usar o Facebook, como o Mark Zuckerberg se tornou um dos homens mais ricos do mundo? Vendendo os dados das pessoas! Ele foi, inclusive, investigado juridicamente por congressistas americanos e dividiu opiniões em seus depoimentos, diferente dos congressistas, que deixaram claro para todo mundo que não entendem nada de tecnologia.
+Si nadie paga por usar Facebook, ¿cómo es que Mark Zuckerberg se convirtió en uno de los hombres más ricos del mundo? ¡Vendiendo los datos de las personas! Incluso fue investigado judicialmente por congresistas estadounidenses y dividió opiniones con sus declaraciones, a diferencia de los congresistas, que dejaron claro para todos que no entienden nada de tecnología.
 
-Mesmo que não seja ilegal, é eticamente questionável enriquecer vendendo os dados de outras pessoas. Por esse motivo, existem diversas soluções de privacidade, como o Brave Browser (o navegador onde este livro está sendo escrito neste momento), que protegem a privacidade de quem o utiliza e, quando vendem algum dado para algum anunciante, recompensam o usuário.
+Aunque no sea ilegal, es éticamente cuestionable enriquecerse vendiendo los datos de otras personas. Por esta razón, existen diversas soluciones de privacidad, como el navegador Brave (el navegador donde se está escribiendo este libro en este momento), que protegen la privacidad de quien lo utiliza y, cuando venden algún dato a algún anunciante, recompensan al usuario.
 
-### A evolução da internet
+### La evolución de internet
 
-A internet é uma rede de computadores que se comunica através de protocolos padronizados, possibilitando que pessoas acessem arquivos em computadores do mundo todo.
+Internet es una red de computadoras que se comunican a través de protocolos estandarizados, permitiendo que las personas accedan a archivos en computadoras de todo el mundo.
 
-A imagem abaixo mostra uma maneira simplificada de como funciona a internet. Possuímos dispositivos como computadores e celulares que se conectam através de cabos, modens e antenas a provedores de internet que conectam suas máquinas à estrutura da internet representada pelos pontos azuis.
-
-Essa estrutura possui um problema, entretanto... observe a imagem e tente descobrir como alguém poderia acabar com a internet.
-
-![imagem1](01.png)
-
-Todas as conexões convergem para um único ponto, ou seja, caso este ponto seja destruído, os outros participantes não podem mais se comunicar.
-
-## O que é web3.0? Existiu 1.0 e 2.0?
-
-Talvez seja a primeira vez que você se depara com o termo web 3.0, talvez não. Provavelmente, em ambos os casos, você deve estar se perguntando: “E existiu uma internet 1.0 e 2.0?”. A resposta é: sim!
-
-Inicialmente, a internet era uma tecnologia militar destinada a trocar dados sensíveis. Porém, uma vez que foi criado um protocolo de comunicação universal e ele foi decretado como padrão militar, não demorou muito para empresas como a IBM adotarem o padrão e passarem a ofertar computadores e a internet ao cidadão comum.
-
-O apelo era direcionado principalmente ao acesso a informações de maneira instantânea e realmente se tornou uma ferramenta indispensável para cientistas e estudiosos. (Web 1.0)
-
-Mesmo assim, foi apenas com o boom das mídias sociais, como YouTube, Instagram e outros, que a adoção da internet saltou para até 90% em algumas regiões do planeta. (Web 2.0)
-
-A internet é uma das tecnologias mais antigas e é, provavelmente, a mais importante para o funcionamento das criptomoedas. Existem maneiras criadas para que, mesmo sem internet, seja possível realizar transações com Bitcoin. Porém, dentro das condições normais, a tecnologia que permite a existência das criptomoedas, a blockchain, usa a internet para criar uma rede menor que funciona dentro de determinados critérios, compartilhando recursos e o fruto do trabalho conjunto. (Web 3.0)
-
-Ou seja, inicialmente, a internet era para trocar informações estáticas. Só passou a ser relevante quando as pessoas começaram a contribuir com a criação do conteúdo. Com a tecnologia blockchain, passou a permitir que pessoas do mundo todo compartilhassem recursos e os resultados dos seus esforços.
-
-Um exemplo de web 3.0 é a rede do Bitcoin, onde todos os participantes cooperam para escrever as transações e criar uma rede segura. Eventualmente, são recompensados em novas moedas criadas pelo código.
+La imagen a continuación muestra una manera simplificada de cómo funciona internet. Poseemos dispositivos como computadoras y celulares que se conectan a través de cables, módems y antenas a proveedores de internet que conectan sus máquinas a la estructura de internet representada por los puntos azules.
 
 ---
 
 ### WEB 1.0:
 
-Foi marcada pelo início da internet e pelo compartilhamento de informações. Veja abaixo exemplos dos sites daquela época:
+Estuvo marcada por el inicio de internet y por el intercambio de información. A continuación, ejemplos de sitios de aquella época:
 
 ---
 
 ### WEB 2.0:
 
-O termo foi criado em 1999, mas só foi popularizado no ano de 2004, com a primeira conferência que possuía o termo no próprio título (Web 2.0 Conference).
+El término fue creado en 1999, pero solo fue popularizado en el año 2004, con la primera conferencia que llevaba el término en su propio título (Web 2.0 Conference).
 
-É “a internet” onde estamos mais presentes, através de aplicativos como WhatsApp, YouTube, Instagram, Facebook, TikTok e outros. Aqui, a identidade passa a ser portátil, e podemos logar em muitos lugares com nossas credenciais de Gmail, Facebook e algumas outras.
+Es “la internet” donde estamos más presentes, a través de aplicaciones como WhatsApp, YouTube, Instagram, Facebook, TikTok y otras. Aquí, la identidad pasa a ser portátil, y podemos iniciar sesión en muchos lugares con nuestras credenciales de Gmail, Facebook y algunas otras.
 
 ---
 
 ### WEB 3.0:
 
-O termo foi criado para designar a internet do valor, do compartilhamento de recursos e da cooperação. Representa também, na grande maioria dos casos, uma mudança radical de pensamento.
+El término fue creado para designar la internet del valor, del intercambio de recursos y de la cooperación. Representa también, en su gran mayoría, un cambio radical de pensamiento.
 
-Enquanto a web 2.0 deu ferramentas para as pessoas fazerem aquilo que já fariam instintivamente, como se comunicar, a web 3.0 é uma plataforma para a criação de modelos de negócio, cooperação e transparência sem precedentes.
+Lo que hace tan valiosa a la web 3.0 son los fundamentos bajo los cuales fue desarrollada. Bitcoin puede tener un precio que oscila, pero el valor de la tecnología blockchain, creada para que este pudiera existir, rompe con diversos paradigmas.
 
-O que faz a web 3.0 tão valiosa são os fundamentos sob os quais foi desenvolvida. O Bitcoin pode até ter um preço que oscila, mas o valor da tecnologia blockchain, criada para que ele pudesse existir, rompe com diversos paradigmas.
-
-Por exemplo, a necessidade de uma entidade, instituição ou governo para controlar o dinheiro. Agora o código faz isso de maneira 100% resistente à falha humana. Além disso, instituições como os bancos e até advogados são potencialmente descartáveis, pois ninguém precisa “confiar” em ninguém. Novamente, o código faz a mediação das relações.
-
-Tudo isso é possível porque a tecnologia blockchain oferece confiança através da criação de um sistema seguro e de registros imutáveis. Parece simples, mas as implicações são profundas e já estão modificando profundamente nossa maneira de fazer negócios e nos relacionar.
+Todo esto es posible porque la tecnología blockchain ofrece confianza a través de la creación de un sistema seguro y de registros inmutables.
 
 ---
 
-### Quando vamos todos para a Web 3.0?
+### ¿Cuándo iremos todos a la Web 3.0?
 
-A verdade é que nunca vamos “nos mudar” para nenhuma internet. Essa separação é apenas uma questão de classificação e entendimento humano, que, de certa maneira, aprecia bastante esse tipo de organização.
-
-Talvez não existam uma internet 1, 2 e 3, e isso seja tudo uma invenção do ser humano, assim como a própria internet.
+La verdad es que nunca vamos a “mudarnos” a ninguna internet. Esta separación es solo una cuestión de clasificación y entendimiento humano, que, de cierta manera, aprecia bastante este tipo de organización.
 
 
-
-# AULA 2 - HISTÓRICO: Tecnologias que compõem a blockchain
-
+# CLASE 2 - HISTORIA: Tecnologías que componen la blockchain
 
 ### 1973
-Robert Kahn e Vinton Cerf começam a trabalhar juntos no que se tornou o protocolo unificado de comunicação da internet, o protocolo TCP/IP.
+Robert Kahn y Vinton Cerf comienzan a trabajar juntos en lo que se convertiría en el protocolo unificado de comunicación de internet, el protocolo TCP/IP.
 
 ### 1974
-
-Robert Kahn e Vinton Cerf começam a trabalhar juntos no que se tornou o protocolo unificado de comunicação da internet, o protocolo TCP/IP. Em 1974, a primeira versão foi ao ar.  
+Robert Kahn y Vinton Cerf comienzan a trabajar juntos en lo que se convertiría en el protocolo unificado de comunicación de internet, el protocolo TCP/IP. En 1974, la primera versión fue lanzada.
 
 ### 1979
-
-Nesse meio tempo, em 1979, Ralph Merkle descreveu uma abordagem para distribuição de chaves públicas e assinaturas digitais chamada "autenticação de árvore" (tree authentication), em sua tese de doutorado para a Universidade de Stanford.  
+Mientras tanto, en 1979, Ralph Merkle describió un enfoque para la distribución de claves públicas y firmas digitales llamado "autenticación de árbol" (tree authentication), en su tesis doctoral para la Universidad de Stanford.
 
 ### 1982
-
-Após vários experimentos, o departamento militar decretou o protocolo TCP/IP como padrão para redes militares em 1982. No mesmo ano, David Chaum descreveu uma metodologia de segurança para estabelecer, manter e criar confiança dentro de sistemas de computadores, em uma dissertação para a Universidade Berkeley. Essa ideia já incorporava muitos dos conceitos atuais de blockchain.  
+Después de varios experimentos, el departamento militar decretó el protocolo TCP/IP como estándar para redes militares en 1982. Ese mismo año, David Chaum describió una metodología de seguridad para establecer, mantener y crear confianza dentro de sistemas informáticos, en una disertación para la Universidad de Berkeley. Esta idea ya incorporaba muchos de los conceptos actuales de blockchain.
 
 ### 1985
-
-O protocolo TCP/IP foi adotado por empresas como a IBM, tornando-se o padrão comercial.  
-
+El protocolo TCP/IP fue adoptado por empresas como IBM, convirtiéndose en el estándar comercial.
 
 ### 1989
-
-David Chaum inventou o dinheiro digital e fundou a corporação DigiCash.  
+David Chaum inventó el dinero digital y fundó la corporación DigiCash.
 
 ### 1991
-
-Stuart Haber e Scott Stornetta, preocupados com a integridade dos dados, criaram uma solução que transforma documentos em um código único (hash), os agrupa sequencialmente e os temporiza, formando uma cadeia.  
+Stuart Haber y Scott Stornetta, preocupados por la integridad de los datos, crearon una solución que convierte documentos en un código único (hash), los agrupa secuencialmente y les añade una marca de tiempo, formando una cadena.
 
 ### 1992
-
-Haber e Stornetta acrescentaram a árvore Merkle, permitindo que múltiplos documentos fossem parte de um único registro.  
+Haber y Stornetta añadieron el árbol de Merkle, permitiendo que múltiples documentos fueran parte de un único registro.
 
 ### 1994
-
-Haber e Stornetta abriram sua própria startup, a “Surety Technology”. Contudo, não conseguiram vender sua ideia e tiveram pouco sucesso em suas operações.  
+Haber y Stornetta fundaron su propia startup, “Surety Technology”. Sin embargo, no lograron vender su idea y tuvieron poco éxito en sus operaciones.
 
 ### 1997
-
-Adam Back criou o **hashcash**, um algoritmo de prova de trabalho (PoW) implementado para impedir ataques cibernéticos, verificando o esforço computacional usado para limitar e-mails com spam.  
+Adam Back creó el **hashcash**, un algoritmo de prueba de trabajo (PoW) implementado para evitar ataques cibernéticos, verificando el esfuerzo computacional usado para limitar correos electrónicos no deseados (spam).
 
 ### 1999
-
-O nascimento e morte do Napster. Apesar de seu servidor centralizado, o Napster popularizou a tecnologia de conexão direta entre usuários P2P (Peer-to-peer, ponto-a-ponto).  
+El nacimiento y la muerte de Napster. A pesar de su servidor centralizado, Napster popularizó la tecnología de conexión directa entre usuarios P2P (Peer-to-peer, punto-a-punto).
 
 ### 2004
+Hal Finney (Harold Thomas Finney II), científico de la computación y activista cripto, quien más tarde sería la primera persona en recibir una transacción de Bitcoin, introdujo el sistema RPoW (**Reusable Proof of Work**). Este sistema resolvió el problema del doble gasto, manteniendo los datos ampliamente disponibles y auditables en tiempo real. Más tarde, esto sería adaptado para crear el sistema de prueba de trabajo (PoW) usado en Bitcoin.
 
-Hal Finney (Harold Thomas Finney II), cientista da computação e ativista cripto, que mais tarde seria a primeira pessoa a receber uma transação de Bitcoin, introduziu o sistema RPoW (**Reusable Proof of Work**). Esse sistema resolveu o problema do gasto duplo, mantendo os dados amplamente disponíveis e auditáveis em tempo real. Mais tarde, isso seria adaptado para criar o sistema de prova de trabalho (PoW) usado no Bitcoin.  
+## Conclusión
+Al conocer los hechos históricos, queda claro que muchas de las personas que contribuyeron a la construcción de la tecnología blockchain murieron sin imaginar cómo llegaría a ser, y además, muchas de estas personas ni siquiera obtuvieron beneficios reales con sus actividades, ya fueran académicas o incluso comerciales, como en el caso de Surety Technologies de Haber y Stornetta.
 
-## Conclusão
-
-Sabendo dos fatos históricos fica claro que muitas pessoas que contribuíram para a construção da tecnologia blockchain morreram sem imaginar como ela viria a ser e, além disso, muitas dessas pessoas sequer obtiveram real lucro com suas atividades sejam elas acadêmicas ou até comerciais como no caso da Surety Technologies de Haber e Stornetta. 
-
-
-A construção da revolução se deu por motivos ideológicos muito mais que intelectuais ou comerciais. Alguns fragmentos da tecnologia Blockchain foram, de fato, criados de maneira teórica para resolver um problema hipotético em uma época em que nem havia a difusão da internet ou alguma percepção do seu possível valor. 
+La construcción de esta revolución se dio por motivos ideológicos mucho más que intelectuales o comerciales. Algunos fragmentos de la tecnología blockchain fueron, de hecho, creados de manera teórica para resolver un problema hipotético en una época en que ni siquiera existía la difusión de internet o alguna percepción de su posible valor.
 
 
-# AULA 3 - O que de fato é, como funciona e pra que pode servir a blockchain?
 
-Blockchain é um conjunto de tecnologias de registro distribuído imutável, ou seja, serve para criar confiança. Muitos computadores participam, criando um ambiente seguro dentro da internet, para criarem registros imutáveis que são interligados sequencialmente (em uma “cadeia de blocos”). Eles podem ser públicos, privados ou híbridos. 
+# CLASE 3 - ¿Qué es exactamente, cómo funciona y para qué sirve la blockchain?
 
-O papel das instituições bancárias, por exemplo, é criar um ambiente seguro para que as pessoas possam armazenar e transacionar valores. Porém é natural que, uma vez que a instituição, seja ela qual for, tenha as atividades pautadas em decisões humanas, sempre haverão consequências relacionadas à falha natureza humana e, por mais que alguns erros possam até ser honestos, o preço pode ser muito alto. 
+La blockchain es un conjunto de tecnologías de registro distribuido inmutable, es decir, sirve para generar confianza. Muchos computadores participan, creando un entorno seguro dentro de internet, para crear registros inmutables que están interconectados secuencialmente (en una "cadena de bloques"). Estos pueden ser públicos, privados o híbridos.
 
-É natural que a tecnologia blockchain seja cada vez mais implementada para substituir as instituições. Dessa maneira quem vai gerenciar as relações será o código prevenindo as falhas humanas enquanto cria um sistema transparente e seguro. Por esse motivo estamos diante de uma revolução que pode ser tão significante quanto o advento da internet em si. 
+El papel de las instituciones bancarias, por ejemplo, es crear un entorno seguro para que las personas puedan almacenar y transaccionar valores. Sin embargo, es natural que, una vez que una institución, sea cual sea, base sus actividades en decisiones humanas, siempre habrá consecuencias relacionadas con la falible naturaleza humana y, aunque algunos errores puedan ser honestos, el precio puede ser muy alto.
 
-Mecanismos de consenso São regras/critérios que devem ser seguidos para que se possa escrever novos blocos de informação. Através de um processo que se chama “mineração” onde os participantes da rede verificam e gravam novos blocos de informação. Cada rede pode ter seu próprio mecanismo de consenso, porém existem dois principais: Proof-of-Work (prova de trabalho) e Proof-of-Stake (prova de participação).
+Es natural que la tecnología blockchain sea implementada cada vez más para reemplazar a las instituciones. De esta forma, quien gestionará las relaciones será el código, previniendo errores humanos mientras crea un sistema transparente y seguro. Por ello, estamos ante una revolución que puede ser tan significativa como el propio surgimiento de internet.
 
-O objetivo de ambos mecanismos é escrever as transações porém eles funcionam de maneiras inteiramente diferentes. Projetos diferentes podem ter alguns detalhes específicos mas, a grosso modo, enquanto no modelo Proof-of-Work (PoW) os usuários usam seu poder computacional para manter a segurança da rede resolvendo problemas matemáticos, no modelo Proof-of-Stake (PoS) os investidores que possuem mais capital investindo vão sendo elencados para gravar/verificar as transações. 
+### Mecanismos de consenso
+Son reglas/critérios que deben seguirse para poder escribir nuevos bloques de información, a través de un proceso llamado "minería", donde los participantes de la red verifican y registran nuevos bloques de información. Cada red puede tener su propio mecanismo de consenso, pero existen dos principales: Proof-of-Work (prueba de trabajo) y Proof-of-Stake (prueba de participación).
 
-Em ambos os casos as transações são validadas por outros usuários e quem escreveu o bloco é recompensado com a moeda nativa. 
+El objetivo de ambos mecanismos es registrar las transacciones, aunque funcionan de maneras completamente diferentes. En términos generales, mientras que en el modelo Proof-of-Work (PoW) los usuarios emplean su poder computacional para mantener la seguridad de la red resolviendo problemas matemáticos, en el modelo Proof-of-Stake (PoS) los inversores con más capital invertido son seleccionados para registrar/verificar las transacciones.
+
+En ambos casos, las transacciones son validadas por otros usuarios y quien escribe el bloque es recompensado con la moneda nativa.
 
 ### Proof of Work
-Na versão do Bitcoin, para validar uma transação, os mineradores competem para descobrir quem consegue gerar uma espécie de ou "código de barras" muito especial que identifica exclusivamente todas as transações do período. Esse código identificador chama hash e, para produzir uma hash, o validador combina todos os dados do bloco com um número aleatório até que o resultado final respeite critérios fixados pela rede. 
+En la versión de Bitcoin, para validar una transacción, los mineros compiten para descubrir quién puede generar una especie de "código de barras" muy especial que identifica exclusivamente todas las transacciones del período. Este código identificador se llama hash, y para producir un hash, el validador combina todos los datos del bloque con un número aleatorio hasta que el resultado final cumpla los criterios establecidos por la red.
 
-No caso da do Bitcoin, a quantidade de 0 com que o código começa. Depois que um minerador valida com sucesso uma transação e a adiciona a um novo bloco de transações, ele pode transmitir o bloco para o restante da rede Bitcoin. 
+En el caso de Bitcoin, se trata de la cantidad de ceros con la que comienza el código. Después de que un minero valida con éxito una transacción y la añade a un nuevo bloque de transacciones, puede transmitir el bloque al resto de la red Bitcoin.
 
-Outros mineradores e nós na rede verificarão o bloco para garantir que ele seja válido e esteja em conformidade com as regras do protocolo Bitcoin. Se o bloco for aceito pela rede, ele é adicionado ao blockchain e se torna uma parte permanente da blockchain do Bitcoin. 
+Otros mineros y nodos de la red verifican el bloque para garantizar que sea válido y cumpla con las reglas del protocolo Bitcoin. Si el bloque es aceptado por la red, se añade a la blockchain y se convierte en una parte permanente de la cadena de bloques de Bitcoin.
 
-O nome “prova de trabalho” se dá por conta do grande esforço computacional envolvido na quantidade de tentativas e cálculos matemáticos necessários para se encontrar uma hash. 
-
+El nombre "prueba de trabajo" se debe al gran esfuerzo computacional involucrado en la cantidad de intentos y cálculos matemáticos necesarios para encontrar un hash.
 
 ### Proof of Stake
-Usado no Ethereum, no algoritmo de consenso Proof of Stake (PoS) do Ethereum os validadores desempenham um papel crucial na garantia da integridade e segurança da rede — também competindo tecnologicamente e criptograficamente entre si —, verificando se cada transação é válida e segue as regras da rede.
+Utilizado en Ethereum, el algoritmo de consenso Proof of Stake (PoS) de Ethereum asigna a los validadores un papel crucial en la garantía de la integridad y seguridad de la red, compitiendo tecnológicamente y criptográficamente entre sí, verificando que cada transacción sea válida y cumpla las reglas de la red.
 
-Para se tornar um validador na rede, um indivíduo ou organização deve possuir pelo menos 32 ethers alocados/bloqueados na rede. Com base na quantidade de tokens empregados os valores são selecionados, quanto mais tokens um validador possui alocados, maior é a chance de ser selecionado para validar transações e ganhar ETH como recompensa. 
+Para convertirse en un validador en la red, un individuo u organización debe poseer al menos 32 ethers asignados/bloqueados en la red. Según la cantidad de tokens asignados, se seleccionan los validadores: cuantos más tokens tenga un validador, mayor será la probabilidad de ser seleccionado para validar transacciones y ganar ETH como recompensa.
 
-O nome “prova de participação” se deve ao fato que o validador prova seu comprometimento empregando seus recursos na rede o que define, também, quão ativamente ele participa no processo de validação. 
+El nombre "prueba de participación" se debe a que el validador demuestra su compromiso al asignar sus recursos a la red, lo que también define cuán activamente participa en el proceso de validación.
 
-## Mecanismos de consenso alternativos.
+## Mecanismos de consenso alternativos
 
 ### Delegated Proof of Stake (DPoS)
-É muito parecido com PoS, porém permite que o investidor delegue seu poder de voto para outro usuário no processo de tomada de decisão de maneira a favorecer a escalabilidade e eficiência da rede. 
+Muy similar al PoS, pero permite que los inversores deleguen su poder de voto a otro usuario en el proceso de toma de decisiones, favoreciendo la escalabilidad y eficiencia de la red.
 
-## Proof of Authority (PoA) 
-Muito útil Blockchains privados e permissionados. Critérios são definidos por uma entidade central que, baseada em reputação e confiabilidade, seleciona nós para validarem as transações.
+### Proof of Authority (PoA)
+Muy útil para blockchains privadas y permissionadas. Los criterios son definidos por una entidad central que, basada en la reputación y confiabilidad, selecciona nodos para validar las transacciones.
 
-## Proof of Elapsed Time (PoET)
-Em sistemas permissionados, onde já existe confiança, os validadores são escolhidos com base no tempo que estão inativos, ou seja, basicamente “o último da fila” é escolhido.
+### Proof of Elapsed Time (PoET)
+En sistemas permissionados, donde ya existe confianza, los validadores son elegidos con base en el tiempo que han estado inactivos, es decir, básicamente "el último en la fila" es seleccionado.
 
 ### Proof of History (PoH)
-Mecanismo que registra o tempo entre eventos de forma criptográfica, criando uma linha do tempo verificável usando funções hash sequenciais. Cada evento ou transação recebe uma marcação temporal única, permitindo que os nós validem a ordem dos acontecimentos sem precisar sincronizar constantemente entre si. Isso torna o processamento de transações mais rápido e eficiente, sendo especialmente útil para blockchains de alto desempenho.
+Un mecanismo que registra el tiempo entre eventos de manera criptográfica, creando una línea de tiempo verificable utilizando funciones hash secuenciales. Cada evento o transacción recibe una marca temporal única, lo que permite que los nodos validen el orden de los acontecimientos sin necesidad de sincronizarse constantemente entre sí. Esto hace que el procesamiento de transacciones sea más rápido y eficiente, siendo especialmente útil para blockchains de alto rendimiento.
 
+## Conclusión
+Dependiendo del propósito, tamaño de la operación y cantidad de recursos, uno u otro mecanismo puede ser mejor.
 
-## Conclusão
+Lo más importante es analizar todos de manera crítica y comprender sus características, y en qué situaciones actúan como defectos o cualidades.
 
-Dependendo do propósito, tamanho da operação e quantidade de recursos um ou outro mecanismo pode ser melhor. 
+La elección del mecanismo de consenso debe ser más que una decisión romántica o basada en la economía de recursos; debe ser una decisión de negocios que sea coherente con los valores y objetivos del proyecto.
 
-O mais importante é analisar todos de maneira crítica e entender suas características e em quais situações elas atuam como defeitos ou qualidades. 
+El objetivo es establecer confianza creando registros encriptados y distribuidos que sean asegurados y escritos de manera descentralizada y auditable respetando mecanismos/algoritmos de consenso.
 
-A escolha de mecanismo de consenso deve ser mais que uma escolha romântica ou baseada em economia de recursos, ela deve ser uma decisão de negócios que seja coerente com os valores e objetivos do projeto. 
-
-O objetivo é estabelecer confiança criando registros criptografados e distribuídos que são assegurados e escritos de maneira descentralizada e auditável respeitando mecanismos/algoritmos de consenso.
-
-# AULA 4 - Características e formatos da blockchain
+# CLASE 4 - Características y formatos de la blockchain
 
 ## Características
 
-### 1. Descentralizada/Distribuída
+### 1. Descentralizada/Distribuida
 
-As Blockchains podem funcionar sem serem controladas por entidades ou organizações. A maneira como cria confiança é usando uma rede de computadores para validar e registrar transações, eliminando a necessidade de intermediários. 
+Las blockchains pueden operar sin ser controladas por entidades u organizaciones. La manera en que generan confianza es utilizando una red de computadores para validar y registrar transacciones, eliminando la necesidad de intermediarios.
 
-A descentralização cria maior segurança e transparência tanto de maneira técnica como institucional, pois esse atributo é mais que um modelo tecnológico, ele é também um modelo de organização que distribui o poder, por exemplo, de criar e controlar dinheiro. Como não há um ponto central de controle, é muito mais difícil para os hackers atacarem a rede ou para atividades fraudulentas passarem despercebidas. 
+La descentralización genera mayor seguridad y transparencia tanto de manera técnica como institucional, ya que este atributo no solo es un modelo tecnológico, sino también un modelo organizativo que distribuye el poder, como por ejemplo, para crear y controlar dinero. Al no haber un punto central de control, es mucho más difícil que los hackers ataquen la red o que las actividades fraudulentas pasen desapercibidas.
 
-Além disso, todas as transações podem ser registradas em um registro público, como no caso do Bitcoin. Uma outra característica inerente a redes muito descentralizadas é a baixa performance quando comparadas a redes centralizadas. 
+Además, todas las transacciones pueden ser registradas en un libro público, como en el caso de Bitcoin. Sin embargo, una característica inherente a las redes muy descentralizadas es su bajo rendimiento en comparación con redes centralizadas.
 
-### 2. Segura 
+### 2. Segura
 
-A tecnologia Blockchain é segura devido ao uso de criptografia. Criptografia é uma prática de comunicação segura, que envolve o uso de algoritmos matemáticos complexos para codificar e decodificar mensagens. 
+La tecnología blockchain es segura debido al uso de la criptografía. La criptografía es una práctica de comunicación segura que implica el uso de algoritmos matemáticos complejos para codificar y decodificar mensajes.
 
-No contexto da blockchain, a criptografia é usada para proteger os dados armazenados na rede, bem como verificar a autenticidade das transações. 
+En el contexto de blockchain, la criptografía se utiliza para proteger los datos almacenados en la red, así como para verificar la autenticidad de las transacciones.
 
-### 3. Imutável 
+### 3. Inmutable
 
-A imutabilidade da tecnologia blockchain refere-se à incapacidade de alterar ou excluir dados que foram registrados anteriormente. 
+La inmutabilidad de la tecnología blockchain se refiere a la imposibilidad de modificar o eliminar datos registrados previamente.
 
-Ela é obtida por meio do uso das “hash”, códigos identificadores únicos, como uma espécie de “digital” que muda completamente com a alteração de, sequer, uma vírgula. 
+Esto se logra mediante el uso de “hashes”, códigos identificadores únicos, como una especie de "huella digital" que cambia por completo si se altera incluso un solo detalle, como una coma.
 
-Essa característica pode ter um impacto muito negativo no caso de ocorrerem erros ou enganos, pois não há como voltar atrás e corrigi-los. Por esse motivo que, inclusive, os mecanismos de consenso são tão importantes. 
+Sin embargo, esta característica puede ser negativa en caso de errores, ya que no es posible revertir ni corregir registros. Por este motivo, los mecanismos de consenso son cruciales.
 
-### 4. Anônima 
+### 4. Anónima
 
-As transações em um blockchain são registradas usando um endereço único, que não revela nenhuma informação pessoal sobre o usuário. 
+Las transacciones en una blockchain se registran utilizando una dirección única que no revela información personal sobre el usuario.
 
-Isso permite que os usuários façam transações sem revelar sua identidade. No entanto, é importante observar que, uma vez que a esse endereço (chave pública) de um usuário é descoberta, todo o seu histórico de transações na blockchain pode ser rastreado, pois os registros em uma blockchain são imutáveis. 
+Esto permite a los usuarios realizar transacciones sin revelar su identidad. Sin embargo, una vez que la dirección pública de un usuario es descubierta, todo su historial de transacciones puede ser rastreado, ya que los registros en una blockchain son inmutables.
 
-### 5. Unânime 
-Para que uma nova transação possa ser registrada, todos os participantes da rede devem concordar com a validade dela.
+### 5. Unánime
 
-Isso garante a integridade e a segurança da Blockchain, pois qualquer tentativa de manipulação ou alteração dos dados da transação será rapidamente detectada, rejeitada pela rede e o participante punido. 
+Para que una nueva transacción sea registrada, todos los participantes de la red deben estar de acuerdo con su validez.
 
-Uma maneira de alcançar unanimidade é por meio do uso de prova de trabalho (PoW). Outra maneira de atingir unanimidade é por meio do uso de mecanismos alternativos de consenso, como Proof-of-Stake (PoS) ou Delegated Proof-of-Stake (DPoS). 
+Esto garantiza la integridad y seguridad de la blockchain, ya que cualquier intento de manipulación será rápidamente detectado y rechazado por la red, además de que el participante será sancionado.
 
-Nesses sistemas, o papel dos mineradores é substituído por validadores que alocam recursos na rede para poderem validar as transações. 
+La unanimidad se puede lograr a través de mecanismos como Proof-of-Work (PoW) o Proof-of-Stake (PoS), entre otros, donde los validadores tienen un interés económico en mantener la red segura.
 
-Isso ajuda a garantir que todos os participantes tenham interesse em manter a integridade da rede e evita qualquer tentativa de fraude ou manipulação.
+### 6. Temporizada
 
-### 6. Temporizada 
+Los registros tienen marcas de tiempo tanto para la creación del código identificador único (hash) como para garantizar que las transacciones se procesen de manera justa y transparente.
 
-Os registros contam com data e hora tanto para a criação do código único identificador (hash) quanto para ajudar a garantir que as transações sejam processadas de maneira justa e transparente, pois não podem ser alteradas ou manipuladas depois de registradas na blockchain.
+Esta característica de registro temporal es crítica para establecer confianza en el sistema.
 
-No geral, a característica da temporização de data/hora da tecnologia blockchain desempenha um papel crítico no estabelecimento de confiança no sistema.
+### 7. Transparente (o no)
 
-### 7. Transparente (ou não)
-
-Todos podem ler e auditar as transações realizadas em uma blockchain pública, o que reforça a confiança e a transparência. No entanto, em blockchains privadas, o acesso aos dados pode ser restrito, dependendo das permissões atribuídas.
-
-## Modelo da blockchain
-
-Os tipos vem em categorias, **permissão** e **transparência**.
-
-Em quesito de **permissão**:
-
-1. **Permissionada**
-   - Somente participantes autorizados podem validar ou registrar transações. Oferece mais controle e segurança, ideal para organizações que necessitam de redes restritas.
-
-2. **Não-permissionada**
-   - Qualquer pessoa pode participar da rede, sem necessidade de autorização prévia. Esse modelo é mais inclusivo, como no caso do Bitcoin.
-
-Em quesito de **transparência**:
-
-1. **Pública**
-   - É aberta a todos, e qualquer pessoa pode participar como usuário, minerador ou desenvolvedor. Geralmente, as blockchains públicas são descentralizadas e baseadas em mecanismos de consenso, como PoW ou PoS.
-
-2. **Privada**
-   - Controlada por uma organização ou entidade específica. O acesso é limitado e restrito, sendo geralmente mais rápida e eficiente, mas menos transparente.
-
-Combinando um tipo de cada categoria, cria-se o modelo no qual a blockchain opera.
-
-## Casos de uso
-
-Potenciais casos de uso:
-
-- **Criptomoedas**: Bitcoin, Ethereum e outras criptomoedas são o caso de uso real mais conhecido por permitirem transacionar e armazenar valores sem intermediários.
-- **Gerenciamento da cadeia de suprimentos:** rastreio de mercadorias do produtor ao consumidor com custos menores, maior controle na gestão e maior eficiência. 
-- **Gerenciamento de identidade e acesso**: armazenamento e verificação segura de informações de identidade.
-- **Sistemas de votação**: sistemas de votação seguros e transparentes que não podem ser hackeados ou manipulados. 
-- **Registro de ativos**: registro de imóveis ou carros para melhor compra, venda ou rastreio caso haja roubo.
-- **Sistema de saúde**: armazenamento e compartilhamento seguro de registros médicos e aumento de eficiência na gestão. 
-- **Educação**: verificação e armazenando credenciais e registros acadêmicos. 
-- **Governo**: simplificação dos serviços públicos e possibilidade de democracia direta.
-- **Organizações de caridade e sem fins lucrativos**: transparência e responsabilidade em doações e distribuição de fundos. 
-- **Energia**: Gestão e comercialização de créditos de energia renovável. 
-- **Agricultura**: rastreamento de segurança alimentar e gerenciamento de processos e recursos. 
-- **Varejo**: melhora na eficiência da cadeia de suprimentos e reduzindo fraudes. 
-- **Arte e colecionáveis**: garantia de autenticidade e propriedade. 
-- **Música e mídia**: proteção de direitos autorais e distribuição de royalties de maneira automática. 
-- **Seguros**: maior rapidez no processo de sinistros e reduzindo fraudes.
-- **Bancos (ou a falta de necessidade deles)**: melhora de inclusão financeira, redução os custos de transação e substituição de tecnologia por algo mais novo e seguro.
-- **Aluguel**: simplificação do processo de aluguel e redução de fraudes.
-- **Viagens e turismo:** melhoramento da eficiência da cadeia de suprimentos, segurança, transparência e reduzindo fraudes. 
-- **Recrutamento**: verificação e armazenando credenciais de emprego de maneira segura.
-- **Recursos humanos**: gerenciamento de registros e benefícios de funcionários.
-- **Negociação de ações**: melhoramento da eficiência, diminuindo custos, reduzindo o risco de fraude e acesso global de investidores.
-- **Financiamento da cadeia de suprimentos**: melhor acesso ao crédito para pequenas e médias empresas. 
-- **Esportes**: verificação e rastreando recordes e estatísticas.
-- **Eventos**: Ingressos digitais facilmente revendidos, acabando com o cambismo.
-- **Jurídico**: Melhorando a eficiência dos processos jurídicos e reduzindo o risco de fraude.
-- **Internet das coisas (IoT)**: permitindo comunicação segura e troca de dados entre dispositivos.
-- **Identidade Digital**: a tecnologia Blockchain pode ser usada para criar identidades digitais seguras e descentralizadas, proporcionando aos usuários maior controle sobre seus dados pessoais permitindo que instituições possam validar processos sem ter acesso aos dados das pessoas. 
--  **Registro e tabelionato**: Cartórios mais baratos, abertos 24 horas, acessíveis remotamente de qualquer lugar.
-
-O preço do Bitcoin pode oscilar ou até ir a zero, porém, seu valor como prova de conceito não é tangível, ou seja, seu real valor para a história da humanidade é possível de ser medido.
-
-A tecnologia ainda está nos seus estágios iniciais de adoção e é inegável que já existem muitas aplicações e que, mesmo assim, muitas outras ainda estão por ser descobertas. Futuro da tecnologia A tecnologia Blockchain tem o potencial de revolucionar uma ampla gama de indústrias e mudar a maneira como vivemos nossas vidas.
-
-
-# RECAP 
-
-#### A Blockchain é um conjunto de tecnologias de registros imutáveis e distribuídos.
-
-- A confiança é uma necessidade básica do ser humano, essa é a razão que faz a Blockchain ter tanto valor e impacto real no nosso dia-a-dia. 
--  Passamos de um modelo probabilístico para um determinístico ao mudarmos de um modelo regido pela confiança em constituições, para um onde o código faz a mediação de nossas relações. 
--   A web 3.0 capacita a cooperação sem precedentes onde as pessoas compartilham recursos e o resultado dos seus trabalhos globalmente de maneira segura (idealmente, 100% regida pelo código, smart contracts, etc).
--   Estima-se que a cultura resultante pode ser de valorizar a privacidade mas também de maior transparência.
-À medida que nossas informações importantes forem adicionadas aos registros permanentes em blockchains, mentir/omitir vai se tornar, progressivamente, mais antiquado e difícil.
-
-A Blockchain atinge tudo isso usando **criptografia**, **mecanismos de consenso** e **redes distribuídas**.
-
-# AULA 5 - Por trás da blockchain, tecnologias pilares
-
-
-## Como funciona a internet?
-
-A compreensão da internet ter várias camadas. Existem aqueles que são usuários e precisam saber a url dos sites que acessam, existem aqueles que estudam na internet ou produzem conteúdo e precisam de maior domínio das ferramentas e também existem os especialistas/desenvolvedores e, além deles, aqueles que são evangelistas. O termo “evangelista” surgiu no começo da internet para descrever especialistas que não impulsionaram a adoção da tecnologia, ou seja, que se preocupavam em como comunicar as utilidades ao público e, inclusive, em como ampliar o leque de utilidades para servir as pessoas. 
-
-
-### Características da internet
-
-- **Descentralizada**: A internet não possui um único ponto de controle. Ela é composta de muitas redes interconectadas administradas por diferentes organizações e indivíduos — contudo, isso não impede que hajam vários serviços centralizados ou que seja censurável.
-- **Comunicação ponto a ponto**: Os dispositivos na Internet podem se comunicar diretamente entre si sem a necessidade de uma autoridade central. 
-- **Escalabilidade**: A internet pode acomodar facilmente um grande número de dispositivos e usuários, pois novos pontos de operação(nós) podem ser adicionados à rede com facilidade. 
-- **Padrões Abertos**: A internet é baseada em padrões abertos (open source), como o Transmission Control Protocol/Internet Protocol (TCP/IP), que permitem a interoperabilidade entre diferentes sistemas e tecnologias. - **Roteamento dinâmico**: A internet usa algoritmos de roteamento dinâmico para rotear dados de um dispositivo para outro, permitindo uma comunicação eficiente e eficaz mesmo em caso de possíveis falhas ou congestionamento da rede. 
-- **Alcance Global**: A internet tem alcance global, permitindo a comunicação e o acesso à informação de qualquer lugar do mundo. Essas características, aliadas a outras como medidas robustas de segurança e suporte a uma ampla gama de aplicativos e serviços, fazem da internet a rede poderosa e dinâmica que é hoje. 
-
-- **Topologias de rede:**
-
-![imagem2](02.png)
-
-
-O Diagrama de Paul Baran Em 1964, problema já mostrado previamente, já tinha sido imaginado e corrigido. Paul Baran apontou a fragilidade de modelos centralizados e propôs outros dois que podem ser utilizados para diferentes finalidades, o distribuído e o descentralizado.
-
-Quando se tratam de dispositivos físicos, hardware, um modelo de rede distribuída permite a criação de sistemas de larga escala e altamente escaláveis que podem lidar com uma grande quantidade de dados e tráfego. 
-
-Isso ocorre porque os dados podem ser distribuídos em vários dispositivos (nós), reduzindo em todos os pontos, tornando o sistema mais resistente a falhas enquanto mantém os dados amplamente disponíveis.
-
-Esse conhecimento de redes foi essencial para pensar no sistema Blockchain.
-
-
-## Criptografia
-
-Criptografia é a prática de proteger informações codificando-as de forma que só possam ser decifradas por indivíduos autorizados. Em termos mais simples, a criptografia é o método usado para tornar as informações confidenciais e acessíveis apenas para quem deveria vê-las. 
-
-Aqui está um exemplo simples de criptografia em ação: Imagine que você tem uma mensagem que deseja enviar a um amigo, mas não deseja que mais ninguém a leia. Você pode usar uma forma simples de criptografia chamada cifra de substituição, em que cada letra da mensagem é substituída por outra letra ou símbolo. 
-
-Por exemplo, você pode substituir cada letra na mensagem pela letra que vem três posições depois no alfabeto (A torna-se D, B torna-se E e assim por diante). 
-
-Seu amigo seria então capaz de decodificar a mensagem invertendo a substituição. 
-
-## EXEMPLO 
-Esse exemplo, apesar de muito básico, ilustra o conceito de como se usa criptografia para codificar uma mensagem de forma a torná-la confidencial e acessível somente a determinados indivíduos. 
-
->Para decifrar a mensagem, o destinatário simplesmente inverte a substituição, pegando cada letra três posições para trás no alfabeto.
-
-- Mensagem original: "OLÁ MUNDO"
-- Mensagem cifrada: "RODÊ PXOW"
-
-## Criptografia de simétrica e assimétrica 
-
-## Criptografia de Chave Simétrica
-
-A **criptografia de chave simétrica** utiliza a mesma chave para **criptografar e descriptografar informações**. Isso significa que tanto o remetente quanto o destinatário das informações devem possuir a mesma chave. 
-
-### Exemplos
-- **AES**
-- **Blowfish**
-
-### Vantagens
-- **Rapidez e eficiência**, tornando-a adequada para criptografar grandes quantidades de dados.
-
-### Desvantagens
-- Exige que remetente e destinatário **tenham acesso à mesma chave**, o que pode ser difícil de gerenciar e proteger na prática.
+En una blockchain pública, todos pueden leer y auditar las transacciones, fomentando la confianza y la transparencia. En blockchains privadas, sin embargo, el acceso a los datos puede estar restringido, dependiendo de los permisos otorgados.
 
 ---
 
-## Criptografia Assimétrica
+## Modelos de blockchain
 
-A **criptografia assimétrica**, também conhecida como **criptografia de chave pública**, utiliza duas chaves diferentes para criptografar e descriptografar informações:
-- **Chave pública**: utilizada para criptografar informações.
-- **Chave privada**: utilizada para descriptografar informações.
+Los tipos de blockchain se clasifican según **permisión** y **transparencia**.
 
-### Exemplos
-- **RSA**
-- **Criptografia de Curva Elíptica**
+En términos de **permisión**:
+1. **Con permiso**
+   - Solo los participantes autorizados pueden validar o registrar transacciones. Ideal para organizaciones con redes restringidas.
+2. **Sin permiso**
+   - Cualquier persona puede participar en la red sin necesidad de autorización previa. Ejemplo: Bitcoin.
 
-### Aplicações
-- **Assinaturas digitais**
-- **Comunicação segura**
+En términos de **transparencia**:
+1. **Pública**
+   - Abierta a todos; cualquier persona puede participar como usuario, minero o desarrollador. Generalmente descentralizada.
+2. **Privada**
+   - Controlada por una entidad específica. Más rápida y eficiente, pero menos transparente.
 
-### Funcionamento
-Na comunicação segura, o remetente utiliza a **chave pública do destinatário** para criptografar a mensagem, enquanto o destinatário usa sua **chave privada** para descriptografá-la. A segurança do sistema baseia-se no fato de que é **computacionalmente inviável** determinar a chave privada a partir da chave pública.
+---
 
-## Endereço de Carteira e Chave Privada na Blockchain
+## Casos de uso
 
-Na tecnologia blockchain:
-- **Chave pública**: É o **endereço da carteira** compartilhado com terceiros. Possui algumas dezenas de caracteres.
-- **Chave privada**: Utilizada para autenticar transações. Geralmente é gerenciada por dispositivos (como hard wallets), softwares ou serviços (como exchanges). A chave privada tem **centenas de caracteres** e, muitas vezes, é desconhecida pelo próprio usuário.
+Algunos posibles casos de uso son:
+- **Criptomonedas:** Bitcoin y Ethereum permiten transacciones sin intermediarios.
+- **Gestión de la cadena de suministro:** seguimiento de mercancías de manera eficiente.
+- **Identidad digital:** almacenamiento seguro y validación de identidades.
+- **Votación:** sistemas transparentes y seguros.
+- **Registro de activos:** propiedades o vehículos.
+- **Salud:** almacenamiento y acceso seguro a registros médicos.
+- **Educación:** certificación de credenciales académicas.
+- **Gobierno:** simplificación de servicios y apoyo a la democracia directa.
+- **Seguros:** procesos más rápidos y seguros.
+- **Arte y música:** autenticidad, distribución de derechos y regalías.
+- **IoT:** intercambio seguro de datos entre dispositivos.
+- **Cartorios y registros notariales:** servicios más accesibles y baratos.
 
-### Exemplo: Metamask
-Ao criar uma nova carteira na Metamask:
-- O usuário recebe uma sequência de **12 palavras** para restaurar sua carteira.
-- Quem gerencia as chaves privadas e permite o resgate da carteira é o software.
+---
 
+## Recapitulación
 
-## Cripto...moeda
+- **Blockchain es una tecnología de registros distribuidos e inmutables.**
+- Su valor radica en la confianza que genera, eliminando la dependencia de instituciones centralizadas.
+- **Web 3.0 permite cooperación global y segura, potenciando nuevas formas de organización.**
+- Su impacto real en la sociedad es profundo y transformador.
 
-A tecnologia Blockchain usa criptografia para proteger as transações financeiras, a confidencialidade e integridade das informações. Em uma transação de criptomoedas, a chave pública (endereço de carteira) do remetente criptografa a transação e a chave privada do destinatário a descriptografa, garantindo que apenas o destinatário possa acessar os dados, ou seja, o saldo.
+Blockchain utiliza **criptografía**, **mecanismos de consenso** y **redes distribuidas** para lograr todo esto.
 
-# Aula 6: Como Funciona a Mineração do Bitcoin A Fundo
+# CLASE 5 - Detrás de la blockchain: tecnologías pilares
 
-## Mineração do Bitcoin
+## ¿Cómo funciona Internet?
 
-A mineração do Bitcoin é um processo fundamental para validar transações e adicionar novos blocos à blockchain. A tecnologia Blockchain foi criada para viabilizar o Bitcoin, que possui características como:
+Comprender internet implica varias capas. Están los usuarios que solo necesitan saber la URL de los sitios que visitan, los que estudian o crean contenido y requieren un dominio mayor de las herramientas, los especialistas/desarrolladores y, finalmente, los "evangelistas". El término “evangelista” surgió al inicio de internet para describir a expertos que promovían su adopción comunicando sus utilidades al público y ampliando su alcance.
 
-- **Estoque Deflacionário**: O Bitcoin possui um limite de emissão de **21 milhões de unidades**.
-- **Processo Descentralizado**: A mineração ocorre em milhões de computadores distribuídos globalmente.
+---
 
-### Funcionamento
+### Características de Internet
 
-Os mineradores executam um processo de tentativa e erro para encontrar uma **hash** válida, utilizando os seguintes elementos:
+- **Descentralizada**: Internet no tiene un único punto de control. Está compuesta por muchas redes interconectadas gestionadas por distintas organizaciones e individuos. Sin embargo, esto no impide que existan servicios centralizados o que sea censurable.
+- **Comunicación punto a punto**: Los dispositivos en internet pueden comunicarse directamente sin la necesidad de una autoridad central.
+- **Escalabilidad**: Internet puede manejar grandes cantidades de dispositivos y usuarios, ya que se pueden añadir nuevos nodos con facilidad.
+- **Estándares abiertos**: Basada en estándares abiertos (open source), como TCP/IP, permite la interoperabilidad entre diferentes sistemas y tecnologías.
+- **Enrutamiento dinámico**: Usa algoritmos de enrutamiento para transmitir datos de manera eficiente incluso en caso de fallos o congestión.
+- **Alcance global**: Permite comunicación y acceso a información desde cualquier lugar del mundo.
 
-- **Transações**: Lista de transações recentes incluídas no bloco.
-- **Header do Bloco**: Metadados sobre o bloco, incluindo identificador de data/hora.
-- **Nonce**: Número aleatório gerado pelo minerador para variar a entrada e atender ao nível de dificuldade da rede.
-- **Dificuldade Alvo**: Valor numérico ajustado dinamicamente pela rede para manter o intervalo médio de geração de blocos em **10 minutos**.
-- **Hash do Bloco Anterior**: Hash do último bloco da cadeia, garantindo a continuidade da blockchain.
+---
+
+### Topologías de red
+
+![imagen2](02.png)
+
+El Diagrama de Paul Baran (1964) abordó la fragilidad de los modelos centralizados y propuso otros dos: distribuidos y descentralizados. En hardware, una red distribuida permite sistemas escalables y resistentes a fallos, ya que los datos se distribuyen en múltiples nodos, garantizando disponibilidad y resistencia.
+
+Este conocimiento fue clave para conceptualizar el sistema blockchain.
+
+---
+
+## Criptografía
+
+La criptografía es la práctica de proteger información mediante codificación, permitiendo que solo personas autorizadas puedan acceder a ella. Simplificando, transforma información confidencial en un formato que solo puede entender quien tiene acceso.
+
+### Ejemplo básico
+Usando una "cifra de sustitución":
+- Mensaje original: "HOLA MUNDO".
+- Mensaje cifrado: "KRÑD PXQGR" (desplazando cada letra 3 posiciones en el alfabeto).
+
+El destinatario puede descifrar invirtiendo el desplazamiento.
+
+---
+
+## Criptografía simétrica y asimétrica
+
+### Criptografía de clave simétrica
+- **Usa la misma clave para cifrar y descifrar**.
+- Ejemplos: AES, Blowfish.
+- Ventajas: rápida y eficiente para grandes volúmenes de datos.
+- Desventajas: requiere compartir la clave, lo que puede ser inseguro.
+
+### Criptografía asimétrica
+- **Usa dos claves diferentes**:
+  - **Clave pública**: cifra la información.
+  - **Clave privada**: descifra la información.
+- Ejemplos: RSA, Criptografía de Curva Elíptica.
+- Aplicaciones: firmas digitales, comunicación segura.
+
+---
+
+## Dirección de billetera y clave privada en blockchain
+
+En blockchain:
+- **Clave pública**: dirección de la billetera compartida con otros.
+- **Clave privada**: autentica transacciones, almacenada en hardware, software o servicios como exchanges.
+
+### Ejemplo: Metamask
+- Al crear una billetera, se proporciona una frase de **12 palabras** para restaurarla.
+- El software gestiona las claves privadas.
+
+---
+
+## Cripto...moneda
+
+Blockchain utiliza criptografía para proteger transacciones y garantizar la integridad. En una transacción:
+- La clave pública del remitente cifra la transacción.
+- La clave privada del destinatario la descifra, asegurando acceso exclusivo al saldo.
+
+# Clase 6: ¿Cómo funciona la minería de Bitcoin a fondo?
+
+## Minería de Bitcoin
+
+La minería de Bitcoin es un proceso fundamental para validar transacciones y agregar nuevos bloques a la blockchain. La tecnología blockchain fue creada para viabilizar el Bitcoin, que cuenta con características como:
+
+- **Oferta Deflacionaria**: Bitcoin tiene un límite de emisión de **21 millones de unidades**.
+- **Proceso Descentralizado**: La minería se realiza en millones de computadoras distribuidas globalmente.
+
+---
+
+### Funcionamiento
+
+Los mineros llevan a cabo un proceso de prueba y error para encontrar una **hash** válida, utilizando los siguientes elementos:
+
+- **Transacciones**: Lista de transacciones recientes incluidas en el bloque.
+- **Header del Bloque**: Metadatos sobre el bloque, incluyendo identificador de fecha/hora.
+- **Nonce**: Número aleatorio generado por el minero para variar la entrada y cumplir con el nivel de dificultad de la red.
+- **Dificultad Objetivo**: Valor numérico ajustado dinámicamente por la red para mantener un intervalo promedio de generación de bloques de **10 minutos**.
+- **Hash del Bloque Anterior**: Hash del último bloque de la cadena, asegurando la continuidad de la blockchain.
+
+---
 
 ### Recompensa
 
-A cada 10 minutos, aproximadamente, um novo bloco é gerado e o minerador que resolve o cálculo da hash primeiro recebe uma recompensa, composta por:
+Aproximadamente cada 10 minutos, se genera un nuevo bloque y el minero que resuelve el cálculo del hash primero recibe una recompensa compuesta por:
 
-1. **Novos Bitcoins**.
-2. **Taxas das transações incluídas no bloco**.
+1. **Nuevos Bitcoins**.
+2. **Comisiones de las transacciones incluidas en el bloque**.
+
+---
 
 ### Halving
 
-A cada **210 mil blocos** (aproximadamente 4 anos), a recompensa por bloco é reduzida pela metade, em um evento chamado **Halving**.
+Cada **210 mil bloques** (aproximadamente cada 4 años), la recompensa por bloque se reduce a la mitad, en un evento conocido como **Halving**.
 
-### Resumo do Processo
+---
 
-1. Mineradores competem para encontrar uma hash que atenda ao **alvo de dificuldade**.
-2. Ao encontrar uma hash válida, o minerador informa o nonce.
-3. Outros mineradores verificam a solução.
-4. O minerador que resolveu a hash recebe a recompensa e o novo bloco é adicionado à blockchain.
+### Resumen del proceso
 
+1. Los mineros compiten para encontrar una hash que cumpla con el **objetivo de dificultad**.
+2. Al encontrar una hash válida, el minero informa el nonce utilizado.
+3. Otros mineros verifican la solución encontrada.
+4. El minero que resuelve la hash recibe la recompensa, y el nuevo bloque es agregado a la blockchain.
 
-# AULA 7 - Moedas, tokens e tipos de tokens
+# CLASE 7 - Monedas, tokens y tipos de tokens
 
-## O que é um Token?
+## ¿Qué es un Token?
 
-Um token é uma representação digital de algo que pode variar de dinheiro a bens físicos, como uma escritura de casa ou uma saca de café. Devido à ampla variedade de itens e ideias que podem ser representados na Blockchain, existem diferentes tipos de tokens.
+Un token es una representación digital de algo que puede variar desde dinero hasta bienes físicos, como una escritura de propiedad o un saco de café. Debido a la amplia variedad de elementos e ideas que pueden representarse en la blockchain, existen diferentes tipos de tokens.
 
-## Diferença entre Token e Moeda
+---
 
-Embora frequentemente usados de forma intercambiável, **tokens** e **moedas** têm funções e características distintas dentro do ecossistema Blockchain.
+## Diferencia entre Token y Moneda
 
-### Moeda
-- **Definição**: Uma moeda é o ativo nativo de uma blockchain. Ela é usada principalmente como meio de troca, reserva de valor e unidade de conta.
+Aunque se usan frecuentemente como sinónimos, **tokens** y **monedas** tienen funciones y características distintas en el ecosistema blockchain.
+
+### Moneda
+- **Definición**: Es el activo nativo de una blockchain. Se utiliza principalmente como medio de intercambio, reserva de valor y unidad de cuenta.
 - **Características**:
-  - Possui sua própria blockchain.
-  - Criada para ser uma forma de dinheiro digital.
-  - Exemplo: Bitcoin (BTC) na blockchain Bitcoin, Ether (ETH) na blockchain Ethereum.
-- **Função principal**: Facilitar transações financeiras e servir como recompensa para a segurança e manutenção da rede (como na mineração ou staking).
+  - Tiene su propia blockchain.
+  - Creada para ser una forma de dinero digital.
+  - Ejemplos: Bitcoin (BTC) en la blockchain Bitcoin, Ether (ETH) en la blockchain Ethereum.
+- **Función principal**: Facilitar transacciones financieras y recompensar la seguridad y mantenimiento de la red (minería o staking).
 
 ### Token
-- **Definição**: Um token é criado em uma blockchain já existente e pode representar uma ampla variedade de ativos ou utilidades.
+- **Definición**: Es creado en una blockchain existente y puede representar una variedad de activos o utilidades.
 - **Características**:
-  - Não possui sua própria blockchain.
-  - Utiliza contratos inteligentes para sua emissão e funcionamento.
-  - Exemplo: Tether (USDT) e Uniswap (UNI), criados na blockchain Ethereum.
-- **Função principal**: Depende do tipo de token, podendo ser:
-  - Representação de um ativo físico ou digital (como stablecoins ou NFTs).
-  - Acesso a serviços ou governança dentro de uma plataforma.
+  - No tiene su propia blockchain.
+  - Utiliza contratos inteligentes para su emisión y funcionamiento.
+  - Ejemplos: Tether (USDT) y Uniswap (UNI), creados en la blockchain Ethereum.
+- **Función principal**: Depende del tipo de token, pudiendo ser:
+  - Representación de activos físicos o digitales (stablecoins, NFTs).
+  - Acceso a servicios o gobernanza dentro de una plataforma.
 
-### Resumo
-| Característica       | Moeda                        | Token                          |
+---
+
+### Resumen
+| Característica       | Moneda                        | Token                          |
 |----------------------|------------------------------|--------------------------------|
-| **Blockchain própria** | Sim                          | Não                            |
-| **Finalidade**        | Meio de troca, reserva de valor | Representação de ativos, utilidades específicas |
-| **Exemplos**          | Bitcoin (BTC), Ether (ETH)   | Tether (USDT), Uniswap (UNI), NFTs |
+| **Blockchain propia** | Sí                          | No                            |
+| **Finalidad**         | Medio de intercambio, reserva de valor | Representación de activos, utilidades específicas |
+| **Ejemplos**          | Bitcoin (BTC), Ether (ETH)   | Tether (USDT), Uniswap (UNI), NFTs |
 
+---
 
-## Smart Contracts
+## Contratos inteligentes (Smart Contracts)
 
-Os contratos inteligentes (smart contracts) são códigos armazenados e executados na Blockchain que, ao serem ativados por condições pré-definidas, se executam automaticamente. Todo token é, essencialmente, um smart contract.
+Los contratos inteligentes son códigos almacenados y ejecutados en la blockchain que, al activarse por condiciones predefinidas, se ejecutan automáticamente. Cada token es, esencialmente, un contrato inteligente.
 
+---
 
 ## Tipos de Tokens
 
 1. **Utility Tokens**  
-   Tokens que fornecem acesso a produtos ou serviços dentro de uma plataforma específica.  
-   Exemplo: Uniswap (UNI).
+   Tokens que otorgan acceso a productos o servicios dentro de una plataforma específica.  
+   Ejemplo: Uniswap (UNI).
 
 2. **Security Tokens**  
-   Representam ativos financeiros, como ações ou títulos, e são regulamentados por autoridades financeiras.  
-   Exemplo: tZero (TZRO).
+   Representan activos financieros, como acciones o bonos, y están regulados por autoridades financieras.  
+   Ejemplo: tZero (TZRO).
 
 3. **Asset-Backed Tokens**  
-   Representam ativos físicos, como ouro, prata, petróleo ou imóveis, permitindo exposição a esses ativos sem comprá-los fisicamente.  
-   Exemplo: Paxos Gold (PAXG).
+   Representan activos físicos, como oro, petróleo o bienes raíces.  
+   Ejemplo: Paxos Gold (PAXG).
 
 4. **Stablecoins**  
-   Stablecoins são tokens cujo valor é atrelado a um ativo estável, como moedas fiduciárias, commodities ou até mesmo outras criptomoedas, para reduzir volatilidade.  
+   Tokens cuyo valor está vinculado a un activo estable para reducir la volatilidad.  
    - **Tipos de Stablecoins**:
-     - **Colateralizadas em moeda fiduciária**: Lastreadas por moedas como o dólar ou euro. Exemplo: Tether (USDT), USD Coin (USDC).
-     - **Colateralizadas em criptoativos**: Garantidas por outras criptomoedas e frequentemente supercolateralizadas. Exemplo: Dai (DAI).
-     - **Algorítmicas**: Mantêm sua estabilidade por meio de algoritmos que ajustam automaticamente sua oferta com base na demanda. Exemplo: UST (Terra, antes do colapso).
+     - **Colateralizadas con moneda fiduciaria**: Ejemplo: Tether (USDT), USD Coin (USDC).
+     - **Colateralizadas con criptomonedas**: Ejemplo: Dai (DAI).
+     - **Algorítmicas**: Ajustan su oferta automáticamente. Ejemplo: UST (antes del colapso).
 
-5. **Token de governança**  
-   Tokens que concedem aos detentores o direito de votar em decisões importantes sobre o futuro de uma plataforma.  
-   Exemplo: Maker (MKR).
+5. **Tokens de gobernanza**  
+   Permiten a los poseedores votar sobre decisiones importantes dentro de una plataforma.  
+   Ejemplo: Maker (MKR).
 
 6. **Non-Fungible Tokens (NFTs)**  
-   Representam ativos únicos e insubstituíveis, como obras de arte digitais, itens colecionáveis ou bens do mundo real, como carros.  
-   Exemplo: Bored Ape Yacht Club.
-
-
-## Fungibilidade
-
-### Objetos Fungíveis
-
-Objetos fungíveis são substituíveis por itens equivalentes. Exemplos:
-- **Ouro**: 1kg de ouro 24k pode ser trocado por outro 1kg de ouro 24k.
-- **Dinheiro**: Uma nota de R$50 pode ser trocada por cinco notas de R$10.
-- **Bitcoin**: Pode ser dividido e transferido em frações, como 0,05 BTC.
-
-### Objetos Não-Fungíveis
-
-Objetos não-fungíveis são únicos e não podem ser substituídos por equivalentes. Exemplos:
-- Uma casa (mesmo com atributos semelhantes, cada casa é única).
-- Uma obra de arte ou música.
-
-### Utilidade de NFTs
-
-Os NFTs foram criados para representar digitalmente ativos não-fungíveis, como:
-- Obras de arte digitais.
-- Escrituras ou documentos.
-- Itens colecionáveis.
-- Domínios digitais.
-- Governança
-
-## Governança e DAOs
-
-A governança em projetos baseados em blockchain busca descentralizar o poder e distribuir a tomada de decisão entre os participantes. Essa abordagem surgiu como uma extensão dos princípios do Bitcoin, que incentivam a independência financeira através do lema: "Seja seu próprio banco".
-
-No entanto, o mercado de criptomoedas ainda enfrenta desafios relacionados à centralização, especialmente pelo papel das exchanges, que atuam como "bancos" centralizados das criptomoedas. Para mitigar isso, surgiram **DAOs** (Organizações Autônomas Descentralizadas) e **tokens de governança**, mencionados acima. Eles podem ser fungíveis ou não-fungíveis.
-
-### Funcionamento:
-- **Contratos inteligentes** gerenciam os direitos de voto.
-- Detentores de tokens podem:
-  - Votar em alterações no protocolo.
-  - Decidir sobre modificações no sistema de governança.
-  - Aprovar financiamentos da tesouraria do projeto.
-- As decisões são tomadas com base no resultado das votações, promovendo uma governança transparente e democrática.
-
-
-## Soulbound Tokens e Identidade Digital
-
-Os **Soulbound Tokens (SBTs)** são NFTs permanentemente vinculados a um endereço de blockchain ou carteira específica, tornando-os intransferíveis. O termo "soulbound" refere-se ao conceito de vínculo com a alma (*soul* = alma, *bound* = vínculo).
-
-### Possíveis Usos para Identidade Digital:
-1. **Autenticação Pessoal**:
-   - Representação de identidades digitais únicas, como diplomas ou certificações.
-   - Garantia de que o token pertence exclusivamente ao seu detentor, promovendo maior confiabilidade.
-
-2. **Histórico de Confiabilidade**:
-   - Registro permanente na blockchain para validação de reputação e comportamento de usuários.
-
-3. **Segurança e Privacidade**:
-   - Proteção contra fraudes, já que os tokens não podem ser transferidos ou vendidos.
-   - Garantia de autenticidade em ambientes digitais.
-
-## Tokenização
-
-A **tokenização** consiste em representar ativos ou objetos do mundo real como tokens na blockchain. Este processo utiliza frequentemente **NFTs**, que podem ser lastreados em ativos físicos gerenciados por empresas em países com legislações favoráveis.
-
-### Benefícios da Tokenização:
-
-1. **Divisão de Ativos**:
-   - Permite que ativos caros, como imóveis, sejam fracionados em partes menores, tornando-os acessíveis a um maior número de investidores.
-
-2. **Aumento da Liquidez**:
-   - Ativos tokenizados podem ser negociados de maneira mais rápida e eficiente no mercado.
-
-3. **Redução de Custos de Transação**:
-   - Elimina intermediários e simplifica processos de compra e venda.
-
-4. **Transparência e Segurança**:
-   - O registro na blockchain permite:
-     - Verificação fácil da propriedade.
-     - Rastreabilidade das transações em tempo real.
-
-5. **Acessibilidade**:
-   - Democratiza investimentos, permitindo que pessoas participem de mercados antes restritos.
-
-### Exemplos de Tokenização:
-- **Imóveis**: Investidores podem adquirir frações de propriedades.
-- **Arte**: Obras podem ser transformadas em tokens para negociação.
-- **Commodities**: Ouro ou petróleo podem ser representados como tokens para facilitar transações.
-
-A tokenização é uma das aplicações mais promissoras da blockchain, pois conecta o mundo físico ao digital de maneira transparente e eficiente.
-
-# AULA 8 - Tudo o que Você Precisa Saber sobre Whitepaper
-
-## O que é um Whitepaper?
-
-Um **whitepaper** é um documento técnico e informativo que apresenta detalhes sobre a arquitetura, organização, segurança e estratégias de desenvolvimento de um projeto de blockchain, criptomoeda ou token. Ele serve para educar o público sobre as tecnologias envolvidas e demonstrar como o projeto resolve um problema específico.
-
-## Estrutura de um Whitepaper
-
-### 1. Abstract (Resumo)
-Breve visão geral do projeto e seus objetivos.
-
-### 2. Introduction (Introdução)
-Descrição do problema que o projeto busca resolver e como sua abordagem se diferencia de soluções existentes.
-
-### 3. Aspectos Técnicos
-- **Tecnologia subjacente**: Explicação detalhada da arquitetura e do funcionamento.
-- **Mecanismo de consenso**: Métodos utilizados para validar transações (ex.: PoW, PoS).
-- **Criptografia**: Técnicas de segurança aplicadas.
-- **Dificuldades de implementação**: Barreiras técnicas do projeto.
-
-### 4. Casos de Uso
-Demonstração de aplicações práticas e como o projeto pode otimizar ou revolucionar processos existentes.
-
-### 5. Road Map
-Plano de desenvolvimento do projeto, com prazos e metas.
-
-### 6. Equipe
-Informações sobre os profissionais envolvidos no projeto, incluindo suas qualificações técnicas.
-
-### 7. Conclusão
-Resumo das funcionalidades principais e desafios técnicos do projeto.
-
-## Como Ler um Whitepaper Focando na Tecnologia
-Para entender o whitepaper de forma técnica, procure respostas para as seguintes perguntas:
-1. Qual problema o projeto resolve?
-2. Qual é o mecanismo de consenso utilizado?
-3. Quais são as tecnologias principais aplicadas?
-4. Quais desafios técnicos existem para implementação?
-5. Como o projeto está estruturado para garantir segurança e escalabilidade?
-
-Os whitepapers são a base para avaliar a viabilidade técnica de projetos e a inovação tecnológica que oferecem, sendo um recurso essencial para compreender novas soluções no setor de blockchain.
-
-
-# Aula 9 - Tokenização: Conceito e Funcionamento
-
-## O que é Tokenização?
-
-A **tokenização** é o processo de converter ativos físicos, digitais ou direitos em tokens registrados em uma blockchain. Utilizando **contratos inteligentes** e padrões de token (como ERC-20 para fungíveis e ERC-721 para não fungíveis), a tokenização cria uma representação digital de algo, permitindo maior rastreabilidade, transparência e eficiência.
-
-
-## Como Funciona o Processo de Tokenização?
-
-1. **Identificação do Ativo**  
-   Define-se o ativo a ser tokenizado, que pode ser físico (como imóveis) ou digital (como música ou arte). Este ativo será a base do token.
-
-2. **Criação do Token**  
-   Um contrato inteligente é desenvolvido na blockchain escolhida para criar os tokens. Ele especifica detalhes como:
-   - Quantidade de tokens (fungíveis ou não).
-   - Regras de negociação.
-   - Propriedades vinculadas ao ativo, como origem ou características.
-
-3. **Registro no Blockchain**  
-   O contrato inteligente registra o token na blockchain, garantindo:
-   - Imutabilidade dos dados.
-   - Rastreabilidade completa.
-   - Propriedade e transações verificáveis.
-
-4. **Distribuição e Negociação**  
-   Os tokens são distribuídos aos interessados ou investidores, que podem negociá-los diretamente em exchanges descentralizadas (DEXs) ou plataformas especializadas.
-
-
-## Exemplos de Aplicação
-
-1. **Imóveis**  
-   Tokenização de propriedades, permitindo a venda de frações de imóveis em forma de tokens.
-
-2. **Arte**  
-   Obras de arte representadas como tokens digitais (NFTs), viabilizando sua compra, venda e rastreamento de autenticidade.
-
-3. **Energia Renovável**  
-   Representação de ativos de energia, como fazendas solares, permitindo o investimento direto por meio de tokens.
-
-
-## Vantagens da Tokenização
-
-- **Transparência**: Todas as transações e propriedades são rastreadas na blockchain.
-- **Acessibilidade**: Ativos de alto valor podem ser divididos em frações menores, permitindo maior participação.
-- **Eficiência**: Eliminação de intermediários, reduzindo custos e burocracias.
-- **Segurança**: Dados registrados de forma imutável, protegendo a integridade das informações.
-
-A tokenização é uma tecnologia disruptiva, possibilitando novos modelos de negócios e expandindo o acesso a investimentos em diferentes setores.
-
-
-# AULA 10: Assuntos para Nerds
-
-## O Trilema da Blockchain
-
-O **trilema da blockchain** descreve o desafio de equilibrar três propriedades essenciais de uma rede blockchain:
-1. **Segurança**: A proteção contra ataques e manipulações.
-2. **Descentralização**: A distribuição do controle entre os participantes da rede.
-3. **Escalabilidade**: A capacidade de lidar com um grande número de transações.
-
-![imagem3](03.png)
-
-Normalmente, as blockchains priorizam duas dessas características em detrimento da terceira. Por exemplo:
-- Bitcoin foca na segurança e descentralização, sacrificando escalabilidade.
-- Soluções como **Layers 2** buscam resolver essas limitações.
+   Representan activos únicos e insustituibles, como arte digital, coleccionables o bienes del mundo real.  
+   Ejemplo: Bored Ape Yacht Club.
 
 ---
 
-## Layers da Blockchain
+## Fungibilidad
 
-As **camadas da blockchain** organizam funcionalidades e resolvem diferentes partes do trilema:
+### Objetos Fungibles
+Son intercambiables por otros equivalentes. Ejemplos:
+- **Oro**: 1 kg de oro 24k es igual a otro kg de oro 24k.
+- **Dinero**: Una nota de $50 equivale a cinco de $10.
+- **Bitcoin**: Puede dividirse y transferirse en fracciones (0,05 BTC).
 
-### Layer 0 (L0)
-A **base da infraestrutura blockchain**, composta por:
-- Redes de comunicação e transporte de dados.
-- Protocolos que conectam várias blockchains (ex.: Polkadot, Cosmos).
+### Objetos No Fungibles
+Son únicos y no intercambiables. Ejemplos:
+- Una casa (cada una es diferente).
+- Una obra de arte.
 
-### Layer 1 (L1)
-A **blockchain principal**, que processa transações e garante segurança. Exemplo:
+### Utilidad de NFTs
+Representan digitalmente activos no fungibles:
+- Arte digital.
+- Escrituras o documentos.
+- Coleccionables.
+- Dominios digitales.
+
+---
+
+## Gobernanza y DAOs
+
+La gobernanza descentraliza el poder y distribuye decisiones entre los participantes. Esto incluye:
+- **DAOs (Organizaciones Autónomas Descentralizadas)**.
+- **Tokens de gobernanza** (fungibles o no fungibles).
+
+### Funcionamiento:
+- Los **contratos inteligentes** gestionan los derechos de voto.
+- Los poseedores de tokens pueden:
+  - Votar cambios en el protocolo.
+  - Decidir modificaciones en el sistema.
+  - Aprobar financiación de proyectos.
+
+---
+
+## Soulbound Tokens y Identidad Digital
+
+Los **Soulbound Tokens (SBTs)** son NFTs vinculados permanentemente a una dirección específica, haciéndolos intransferibles.
+
+### Usos para Identidad Digital:
+1. **Autenticación Personal**:
+   - Representación de identidades únicas (certificados, diplomas).
+2. **Historial de Confiabilidad**:
+   - Registro en blockchain para reputación.
+3. **Seguridad y Privacidad**:
+   - Protección contra fraudes.
+
+---
+
+## Tokenización
+
+La **tokenización** consiste en representar activos reales como tokens en blockchain.
+
+### Beneficios:
+1. **División de Activos**: Inversiones más accesibles.
+2. **Aumento de Liquidez**: Transacciones más rápidas.
+3. **Reducción de Costos**: Menos intermediarios.
+4. **Transparencia y Seguridad**: Rastreabilidad en blockchain.
+
+### Ejemplos:
+- **Inmuebles**: Propiedades divididas en fracciones tokenizadas.
+- **Arte**: Obras digitalizadas y tokenizadas.
+- **Commodities**: Oro, petróleo.
+
+La tokenización conecta el mundo físico con el digital de manera eficiente y transparente.
+
+# CLASE 8 - Todo lo que necesitas saber sobre Whitepapers
+
+## ¿Qué es un Whitepaper?
+
+Un **whitepaper** es un documento técnico e informativo que detalla la arquitectura, organización, seguridad y estrategias de desarrollo de un proyecto de blockchain, criptomoneda o token. Su objetivo es educar al público sobre las tecnologías involucradas y mostrar cómo el proyecto resuelve un problema específico.
+
+---
+
+## Estructura de un Whitepaper
+
+### 1. Abstract (Resumen)
+Breve visión general del proyecto y sus objetivos.
+
+### 2. Introduction (Introducción)
+Descripción del problema que el proyecto busca resolver y cómo su enfoque se diferencia de las soluciones existentes.
+
+### 3. Aspectos Técnicos
+- **Tecnología subyacente**: Explicación detallada de la arquitectura y funcionamiento.
+- **Mecanismo de consenso**: Métodos utilizados para validar transacciones (p. ej., PoW, PoS).
+- **Criptografía**: Técnicas de seguridad aplicadas.
+- **Dificultades de implementación**: Barreras técnicas del proyecto.
+
+### 4. Casos de Uso
+Demostración de aplicaciones prácticas y cómo el proyecto optimiza o revoluciona procesos existentes.
+
+### 5. Road Map
+Plan de desarrollo del proyecto, incluyendo plazos y metas.
+
+### 6. Equipo
+Información sobre los profesionales involucrados, incluyendo sus cualificaciones técnicas.
+
+### 7. Conclusión
+Resumen de las funcionalidades principales y desafíos técnicos del proyecto.
+
+---
+
+## Cómo Leer un Whitepaper con Enfoque Técnico
+
+Para entender un whitepaper desde el punto de vista técnico, busca respuestas a estas preguntas:
+1. ¿Qué problema resuelve el proyecto?
+2. ¿Cuál es el mecanismo de consenso utilizado?
+3. ¿Cuáles son las tecnologías principales aplicadas?
+4. ¿Qué desafíos técnicos existen para la implementación?
+5. ¿Cómo garantiza el proyecto seguridad y escalabilidad?
+
+Los whitepapers son fundamentales para evaluar la viabilidad técnica de los proyectos y la innovación tecnológica que ofrecen. Son un recurso esencial para comprender las nuevas soluciones en el ámbito blockchain.
+
+---
+
+# Clase 9 - Tokenización: Concepto y Funcionamiento
+
+## ¿Qué es la Tokenización?
+
+La **tokenización** es el proceso de convertir activos físicos, digitales o derechos en tokens registrados en una blockchain. Utilizando **contratos inteligentes** y estándares de token (como ERC-20 para fungibles y ERC-721 para no fungibles), la tokenización crea una representación digital de un activo, permitiendo mayor rastreabilidad, transparencia y eficiencia.
+
+---
+
+## ¿Cómo Funciona el Proceso de Tokenización?
+
+1. **Identificación del Activo**  
+   Se define el activo a tokenizar, que puede ser físico (como inmuebles) o digital (como música o arte). Este activo será la base del token.
+
+2. **Creación del Token**  
+   Se desarrolla un contrato inteligente en la blockchain seleccionada para crear los tokens. Este contrato especifica:
+   - Cantidad de tokens (fungibles o no fungibles).
+   - Reglas para la negociación.
+   - Propiedades vinculadas al activo, como origen o características.
+
+3. **Registro en la Blockchain**  
+   El contrato inteligente registra el token en la blockchain, garantizando:
+   - Inmutabilidad de los datos.
+   - Rastreabilidad completa.
+   - Propiedad y transacciones verificables.
+
+4. **Distribución y Negociación**  
+   Los tokens se distribuyen entre interesados o inversores, quienes pueden negociarlos directamente en exchanges descentralizados (DEX) o plataformas especializadas.
+
+---
+
+## Ejemplos de Aplicación
+
+1. **Inmuebles**  
+   Tokenización de propiedades, permitiendo la venta de fracciones de inmuebles en forma de tokens.
+
+2. **Arte**  
+   Obras de arte representadas como tokens digitales (NFTs), viabilizando su compra, venta y rastreo de autenticidad.
+
+3. **Energía Renovable**  
+   Representación de activos energéticos, como granjas solares, permitiendo inversión directa mediante tokens.
+
+---
+
+## Ventajas de la Tokenización
+
+- **Transparencia**: Todas las transacciones y propiedades son rastreadas en la blockchain.
+- **Accesibilidad**: Activos de alto valor pueden dividirse en fracciones menores, permitiendo mayor participación.
+- **Eficiencia**: Eliminación de intermediarios, reduciendo costos y burocracia.
+- **Seguridad**: Datos registrados de forma inmutable, protegiendo la integridad de la información.
+
+La tokenización es una tecnología disruptiva que permite nuevos modelos de negocio y amplía el acceso a inversiones en diversos sectores.
+
+# CLASE 10 - Temas para Nerds
+
+## El Trilema de la Blockchain
+
+El **trilema de la blockchain** describe el desafío de equilibrar tres propiedades esenciales de una red blockchain:
+1. **Seguridad**: Protección contra ataques y manipulaciones.
+2. **Descentralización**: Distribución del control entre los participantes de la red.
+3. **Escalabilidad**: Capacidad para manejar un gran volumen de transacciones.
+
+![imagen3](03.png)
+
+Normalmente, las blockchains priorizan dos de estas características a costa de la tercera. Por ejemplo:
+- Bitcoin se centra en la seguridad y descentralización, sacrificando escalabilidad.
+- Soluciones como las **Layers 2** buscan abordar estas limitaciones.
+
+---
+
+## Capas de la Blockchain
+
+Las **capas de la blockchain** organizan funcionalidades y abordan distintas partes del trilema:
+
+### Capa 0 (L0)
+La **base de la infraestructura blockchain**, compuesta por:
+- Redes de comunicación y transporte de datos.
+- Protocolos que conectan varias blockchains (ej.: Polkadot, Cosmos).
+
+### Capa 1 (L1)
+La **blockchain principal**, que procesa transacciones y garantiza la seguridad. Ejemplos:
 - Bitcoin.
 - Ethereum.
 
-Essas redes priorizam segurança e descentralização, mas podem enfrentar desafios de escalabilidade.
+Estas redes priorizan seguridad y descentralización, pero enfrentan desafíos de escalabilidad.
 
-### Layer 2 (L2)
-Protocolos que funcionam **sobre a Layer 1** para aumentar a escalabilidade sem comprometer a segurança. Aqui, consideramos exclusivamente **rollups**:
-- **Rollups**: Soluções que processam transações fora da L1 e enviam resultados condensados para a blockchain principal.
+### Capa 2 (L2)
+Protocolos que operan **sobre la Layer 1** para mejorar la escalabilidad sin comprometer la seguridad. Aquí se consideran principalmente los **rollups**:
+- **Rollups**: Procesan transacciones fuera de la L1 y envían resultados resumidos a la blockchain principal.
 
-### Layer 3 (L3)
-Focada na **experiência do usuário** e **aplicações descentralizadas (DApps)**. Funciona sobre L2s e L1s, otimizando a interação de usuários com redes blockchain.
+### Capa 3 (L3)
+Se centra en la **experiencia del usuario** y **aplicaciones descentralizadas (DApps)**. Funciona sobre L2s y L1s, optimizando la interacción de los usuarios con las redes blockchain.
 
-![imagem4](04.png)
-
-## Appchains
-
-As **Appchains** são blockchains personalizadas para aplicações específicas, oferecendo:
-- Maior controle sobre design e governança.
-- Melhor desempenho e escalabilidade para a aplicação.
-
-Uma appchain pode ser uma L3, mas nem toda L3 é uma appchain.
-
-## Rollups
-
-Os **rollups** aumentam a escalabilidade ao processar transações fora da L1 e consolidar os dados na blockchain principal. Eles são divididos em:
-
-### Rollups Otimistas
-- Redes que assumem que as transações são válidas por padrão.
-- Validadores podem contestar transações fraudulentas, resolvendo disputas na L1.
-- **Exemplo**: Optimism, Arbitrum.
-
-### zk-Rollups
-- Utilizam **provas de conhecimento zero (ZK)** para validar transações sem revelar detalhes.
-- São mais rápidos e seguros, mas têm maior complexidade técnica.
+![imagen4](04.png)
 
 ---
 
-## zk-SNARKs, zk-STARKs e ZK em Geral
+## Appchains
 
-Os **zk-SNARKs** (Succinct Non-Interactive Arguments of Knowledge) e **zk-STARKs** (Scalable Transparent Arguments of Knowledge) são tipos de **provas de conhecimento zero**, que permitem verificar informações sem revelar o conteúdo subjacente.
+Las **Appchains** son blockchains personalizadas para aplicaciones específicas, ofreciendo:
+- Mayor control sobre el diseño y la gobernanza.
+- Mejor rendimiento y escalabilidad para la aplicación.
+
+Una appchain puede ser una L3, pero no toda L3 es una appchain.
+
+---
+
+## Rollups
+
+Los **rollups** mejoran la escalabilidad al procesar transacciones fuera de la L1 y consolidar los datos en la blockchain principal. Se dividen en:
+
+### Rollups Optimistas
+- Asumen que las transacciones son válidas por defecto.
+- Los validadores pueden disputar transacciones fraudulentas, resolviendo disputas en la L1.
+- **Ejemplos**: Optimism, Arbitrum.
+
+### zk-Rollups
+- Usan **pruebas de conocimiento cero (ZK)** para validar transacciones sin revelar detalles.
+- Son más rápidos y seguros, pero tienen mayor complejidad técnica.
+
+---
+
+## zk-SNARKs, zk-STARKs y ZK en General
+
+Los **zk-SNARKs** (Succinct Non-Interactive Arguments of Knowledge) y **zk-STARKs** (Scalable Transparent Arguments of Knowledge) son tipos de **pruebas de conocimiento cero** que permiten verificar información sin revelar el contenido subyacente.
 
 - **zk-SNARKs**:
-  - Menor tamanho de prova.
-  - Depende de uma configuração inicial confiável (*trusted setup*).
+  - Pruebas más pequeñas.
+  - Requieren una configuración inicial confiable (*trusted setup*).
 - **zk-STARKs**:
-  - Provas maiores, mas mais rápidas.
-  - Não exigem configuração inicial.
+  - Pruebas más grandes, pero más rápidas.
+  - No requieren configuración inicial.
 
-Essas tecnologias são fundamentais para **privacidade** e **escalabilidade** em blockchains.
+Estas tecnologías son fundamentales para garantizar **privacidad** y **escalabilidad** en blockchains.
 
+---
 
 ## Mempool
 
-O **mempool** é o espaço onde as transações aguardam validação antes de serem adicionadas a um bloco. É uma espécie de "fila de espera" na blockchain, ordenada por critérios como taxas pagas pelos usuários.
-Normalmente, quem paga mais rápido vai primeiro. O nome disso é frontrunning.
+El **mempool** es el espacio donde las transacciones esperan validación antes de ser añadidas a un bloque. Es una especie de "cola de espera" en la blockchain, ordenada por criterios como las tarifas pagadas por los usuarios.  
+Normalmente, quien paga más rápido va primero. Esto se conoce como **frontrunning**.
 
+---
 
 ## EVM (Ethereum Virtual Machine)
 
-A **Ethereum Virtual Machine** é o ambiente de execução para contratos inteligentes na Ethereum. Ela interpreta e executa código, tornando possível a criação de **DApps** e **smart contracts**.
+La **Ethereum Virtual Machine** es el entorno de ejecución para contratos inteligentes en Ethereum. Interpreta y ejecuta código, permitiendo la creación de **DApps** y **smart contracts**.
 
-### EVM como Padrão da Indústria
-Muitas blockchains adotam a EVM como padrão devido à sua compatibilidade e ampla base de desenvolvedores. Isso facilita a portabilidade de DApps entre redes como Binance Smart Chain, Polygon e Avalanche.
+### EVM como Estándar de la Industria
+Muchas blockchains adoptan la EVM como estándar debido a su compatibilidad y a su amplia base de desarrolladores. Esto facilita la portabilidad de DApps entre redes como Binance Smart Chain, Polygon y Avalanche.
 
+---
 
 ## Bridges
 
-As **bridges** conectam diferentes blockchains, permitindo a transferência de tokens e dados entre elas. São essenciais para a interoperabilidade no ecossistema blockchain, mas podem introduzir riscos de segurança, como exploits em contratos inteligentes.
+Las **bridges** conectan diferentes blockchains, permitiendo la transferencia de tokens y datos entre ellas. Son esenciales para la interoperabilidad en el ecosistema blockchain, aunque pueden introducir riesgos de seguridad, como exploits en contratos inteligentes.
